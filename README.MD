@@ -5,7 +5,7 @@ Este proyecto es una aplicación completa de Ecommerce que integra un frontend d
 ## Estructura del Proyecto
 
 ```plaintext
-/proyecto-final-ecommerce/
+/proyectofinal_springboot/
 ├── frontend/
 │   ├── css/
 │   ├── img/
